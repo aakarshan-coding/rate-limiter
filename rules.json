@@ -1,0 +1,5 @@
+{
+    "/api/search": { "endpoint_max": 10, "global_max": 100, "windowSeconds": 60 },
+    "/api/export": { "endpoint_max": 3, "global_max": 100, "windowSeconds": 60 },
+    "default":     { "endpoint_max": 20, "global_max": 200, "windowSeconds": 60 }
+  }
